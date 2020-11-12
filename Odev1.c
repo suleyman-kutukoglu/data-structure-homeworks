@@ -22,7 +22,6 @@ void tabloyuGoster(node * r){
   while (r != NULL){
     printf("Index:%-2d Numara:%d Not:%d\n",r->index, r->numara, r->not );
     r = r->next;
-
   }
 }
 
