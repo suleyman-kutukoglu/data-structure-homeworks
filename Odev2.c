@@ -60,8 +60,6 @@ int main(void) {
         printf("Güncel Index Tablosu:\n");
         tabloyuGoster(root);
         break;
-
-
       case 2:
          
           printf("\nTabloya eklemek istediğiniz ogrencinin numarasi:");
